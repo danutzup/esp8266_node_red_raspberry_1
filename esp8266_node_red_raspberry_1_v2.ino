@@ -14,8 +14,8 @@
 //#define DHTTYPE DHT21   // DHT 21 (AM2301)
 //#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 // Change the credentials below, so your ESP8266 connects to your router
-const char* ssid = "AnaSiDoru";
-const char* password = "danzupwir";
+const char* ssid = "XXXXXXXXXX";
+const char* password = "dXXXXXXXX";
 // Change the variable to your Raspberry Pi IP address, so it connects to your MQTT broker
 const char* mqtt_server = "192.168.1.111";
 // Initializes the espClient. You should change the espClient name if you have multiple ESPs running in your home automation system
